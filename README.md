@@ -34,10 +34,8 @@ An educational consultancy platform integrating secure payment systems and AI-po
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gassafrica&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
----
+
 
 ## 🔧 Technologies & Tools
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
