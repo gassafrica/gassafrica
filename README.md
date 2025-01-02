@@ -6,11 +6,11 @@ A developer specializing in **PHP (Laravel)** and **Python (Django & Flask)**, f
 
 ## 🌟 Featured Projects
 
-### 🔗 **Makorla Multi-Vendor E-commerce**
-A secure escrow marketplace connecting vendors and buyers, designed to reduce social media scams.
+### 🔗 [**Makorla Multi-Vendor E-commerce**](https://makorla.com)
+A large escrow multivendor platform connecting vendors and buyers, designed to reduce social media scams.
 
-### 📘 **AcadAssist**
-An educational platform offering AI-powered tools and secure payment systems to enhance learning experiences.
+### 📘 [**AcadAssist**](https://acadassist.net)
+An EdTech platform designed to enhance learning and teaching experiences for students and educators.
 
 ---
 
