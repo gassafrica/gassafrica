@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gyekye Akwesi Sarpong Samuel
+# 👋 Hi, I'm Samuel
 
 A developer specializing in **PHP (Laravel)** and **Python (Django & Flask)**, focused on building efficient and innovative solutions.
 
