@@ -1,4 +1,4 @@
-# 🎮 GAME OVER - I'M SAMUEL!
+# 🎮 GAME OVER - SAMUEL!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🍄+LEVEL+UP+YOUR+CODE+🍄;🎮+FULL+STACK+DEVELOPER+🎮;⚡+PHP+%26+PYTHON+MASTER+⚡;🚀+BUILDING+DIGITAL+WORLDS+🚀" alt="Typing SVG" />
