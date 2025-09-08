@@ -1,272 +1,178 @@
-# 🎮 GAME OVER - SAMUEL!
+# Samuel - Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🍄+LEVEL+UP+YOUR+CODE+🍄;🎮+FULL+STACK+DEVELOPER+🎮;⚡+PHP+%26+PYTHON+MASTER+⚡;🚀+BUILDING+DIGITAL+WORLDS+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Digital+Solutions;PHP+%26+Python+Specialist;Crafting+Modern+Web+Experiences" alt="Typing Animation" />
 </div>
 
 <div align="center">
   
-```
- ██████████████████████████████████████████████████████████████████████████████████████████
- █                                                                                        █
- █    ████████████████████████████████████████████████████████████████████████████████    █
- █    █                                                                              █    █
- █    █    🍄 PLAYER: SAMUEL                     💰 COINS: ∞                        █    █
- █    █    🏆 LEVEL: FULL STACK                  ⭐ LIVES: ∞                        █    █
- █    █    🎯 MISSION: BUILDING DIGITAL SOLUTIONS                                    █    █
- █    █    🌍 WORLD: GHANA                       🎮 STATUS: CODING                  █    █
- █    █                                                                              █    █
- █    ████████████████████████████████████████████████████████████████████████████████    █
- █                                                                                        █
- █                              🎵 PRESS START TO CONTINUE 🎵                            █
- ██████████████████████████████████████████████████████████████████████████████████████████
-```
-
-</div>
-
----
-
-## 🕹️ PLAYER PROFILE
-
-<div align="center">
+  ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
   
-```
-  ████████████████████████████████████████████████████████████████████████████████████████
-  █                                                                                  █
-  █    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    █
-  █    ░                                                                          ░    █
-  █    ░    🎵 SPECIAL ABILITY: CODING WITH MUSIC                                 ░    █
-  █    ░    ⚽ ULTIMATE MOVE: FIFA CHAMPION MODE                                  ░    █
-  █    ░    🎮 SECRET POWER: RETRO GAMING WISDOM                                 ░    █
-  █    ░    🚀 LEGENDARY SKILL: PROBLEM SOLVING                                  ░    █
-  █    ░                                                                          ░    █
-  █    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    █
-  █                                                                                  █
-  ████████████████████████████████████████████████████████████████████████████████████████
-```
-
 </div>
 
-I'm a legendary **Full Stack Developer** from Ghana 🇬🇭 who discovered the secret to perfect code: the right soundtrack! When I'm not casting spells with Laravel or Python, you'll find me dominating FIFA matches or exploring classic arcade games that inspire my coding adventures.
+## 🚀 About Me
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 Professional Journey</h3>
+      <p>Passionate Full Stack Developer based in Ghana, dedicated to creating robust and scalable digital solutions. I specialize in modern web technologies and have a keen eye for building applications that solve real-world problems.</p>
+      
+      <h3>🎯 Current Focus</h3>
+      <ul>
+        <li>Building enterprise-level web applications</li>
+        <li>Mobile-first development approach</li>
+        <li>API architecture and microservices</li>
+        <li>Performance optimization</li>
+      </ul>
+    </td>
+    <td width="50%">
+      
 ```javascript
 const samuel = {
-    location: "Ghana 🇬🇭",
-    playerClass: "Full Stack Developer",
-    magicSpells: ["Laravel Enchantment", "Python Sorcery", "Mobile Wizardry"],
-    currentQuest: "Building epic digital worlds",
-    powerSources: ["🎵 Music", "⚽ FIFA", "🎮 Retro Gaming"],
-    secretFormula: "Code + Music + FIFA = Pure Magic!"
+    location: "🇬🇭 Ghana",
+    role: "Full Stack Developer",
+    languages: ["PHP", "Python", "JavaScript"],
+    frameworks: ["Laravel", "Django", "Vue.js"],
+    databases: ["MySQL", "SQLite"],
+    mobile: ["Ionic Framework"],
+    passions: ["Clean Code", "Innovation", "Music"],
+    motto: "Code with purpose, build with passion"
 };
 ```
-
----
-
-## ⚡ POWER-UP INVENTORY
-
-<div align="center">
-  
-```
- ████████████████████████████████████████████████████████████████████████████████████████
- █                              🎮 WEAPON SELECTION 🎮                                 █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                        🔥 BACKEND ARSENAL 🔥                                │  █
- █    │                                                                             │  █
- █    │    [🍄] PHP POWER-UP        [⚡] LARAVEL LIGHTNING                        │  █
- █    │    [🐍] PYTHON SPELL        [🚀] DJANGO ROCKET                           │  █
- █    │    [🔧] FLASK TOOLKIT                                                     │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                      📱 FRONTEND & MOBILE GEAR 📱                          │  █
- █    │                                                                             │  █
- █    │    [💚] VUE.JS EMERALD      [📱] IONIC CRYSTAL                           │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                       🗄️ DATA STORAGE VAULTS 🗄️                           │  █
- █    │                                                                             │  █
- █    │    [🏰] MYSQL FORTRESS      [💎] SQLITE GEM                              │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                        🛠️ DEVELOPER TOOLS 🛠️                              │  █
- █    │                                                                             │  █
- █    │    [⚡] GIT MAGIC           [🎮] CPANEL CONTROLLER                        │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- ████████████████████████████████████████████████████████████████████████████████████████
-```
-
-</div>
-
----
-
-## 🎯 Current Level Status
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gassafrica&theme=radical&background=0D1117&stroke=00FF41&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF41" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 ARCADE HALL OF FAME
+      
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
-```
-    ████████████████████████████████████████████████████████████████████████████████
-    █                    🎮 PLAYER ACHIEVEMENTS 🎮                                █
-    █                                                                              █
-    █    ████████████████████████████████████████████████████████████████████    █
-    █    █                                                                  █    █
-    █    █   🍄 LARAVEL MASTER        🐍 PYTHON NINJA        ⚡ VUE WIZARD   █    █
-    █    █                                                                  █    █
-    █    █   🎵 CODE COMPOSER         ⚽ FIFA CHAMPION       🎮 RETRO GAMER  █    █
-    █    █                                                                  █    █
-    █    █   🚀 PROBLEM SOLVER        💡 INNOVATION SEEKER   🌍 TECH EXPLORER █    █
-    █    █                                                                  █    █
-    █    ████████████████████████████████████████████████████████████████████    █
-    █                                                                              █
-    █                           🌟 LEGENDARY STATUS 🌟                           █
-    ████████████████████████████████████████████████████████████████████████████████
-```
+  ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
+  
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Backend Mastery
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=2A2A2A" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=2A2A2A" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2A2A2A" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=2A2A2A" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=2A2A2A" alt="Flask"/>
+
+### Frontend Excellence
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2A2A2A" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=2A2A2A" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2A2A2A" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2A2A2A" alt="CSS3"/>
+
+### Mobile Development
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=2A2A2A" alt="Ionic"/>
+
+### Database Management
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2A2A2A" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=2A2A2A" alt="SQLite"/>
 
 </div>
 
----
+<div align="center">
+  
+  ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
+  
+</div>
 
-## 🕹️ ARCADE POWER-UPS
+## 📊 GitHub Analytics
 
 <div align="center">
   
-```
-  ┌─────────────────────────────────────────────────────────────────────────────────┐
-  │                                                                                 │
-  │   🎵 MUSIC BOOST: +100 Focus    ⚽ FIFA SKILLS: +100 Precision               │
-  │                                                                                 │
-  │   🎮 GAMING WISDOM: +100 Logic   🍄 CREATIVITY: +100 Innovation              │
-  │                                                                                 │
-  │   💻 CODE MASTERY: +∞ Solutions   🚀 TECH PASSION: +∞ Motivation             │
-  │                                                                                 │
-  └─────────────────────────────────────────────────────────────────────────────────┘
-```
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gassafrica&show_icons=true&theme=react&bg_color=1a1b27&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_color=00D4FF&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gassafrica&theme=react&bg_color=1a1b27&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gassafrica&theme=react&background=1a1b27&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&border=00D4FF" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  
+  ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
+  
+</div>
+
+## 💼 Project Showcase
+
+<div align="center">
+
+### 🌟 Expertise Areas
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/web.png"/>
+      <h3>Web Applications</h3>
+      <p>Full-stack web solutions with modern frameworks and responsive design</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/smartphone.png"/>
+      <h3>Mobile Development</h3>
+      <p>Cross-platform mobile apps and progressive web applications</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/api.png"/>
+      <h3>API Development</h3>
+      <p>RESTful APIs and microservices architecture</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
-
-## 🌐 MULTIPLAYER ZONE
-
 <div align="center">
   
-```
- ████████████████████████████████████████████████████████████████████████████████████████
- █                                                                                      █
- █                            🎮 JOIN THE ADVENTURE! 🎮                                █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                                                                             │  █
- █    │    [📸] INSTAGRAM PORTAL    [🎥] YOUTUBE CHANNEL    [🐦] TWITTER FEED      │  █
- █    │                                                                             │  █
- █    │    [💻] GITHUB KINGDOM      [📧] EMAIL WARP PIPE                          │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- ████████████████████████████████████████████████████████████████████████████████████████
-```
+  ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
+  
+</div>
 
-<a href="https://instagram.com/akwesigyekye01">
-  <img src="https://img.shields.io/badge/🍄_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@gassbuilds">
-  <img src="https://img.shields.io/badge/🚀_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
-</a>
-<a href="https://twitter.com/sarpongakwesi">
-  <img src="https://img.shields.io/badge/⚡_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
-</a>
-<a href="https://github.com/gassafrica">
-  <img src="https://img.shields.io/badge/🎮_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-</a>
-<a href="mailto:gassdj47@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-</a>
+## 🌐 Let's Connect
+
+<div align="center">
+
+<h3>Ready to collaborate on something amazing?</h3>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2A2A2A)](https://instagram.com/akwesigyekye01)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2A2A2A)](https://www.youtube.com/@gassbuilds)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2A2A2A)](https://twitter.com/sarpongakwesi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A2A2A)](mailto:gassdj47@gmail.com)
 
 </div>
 
----
-
-## 💬 READY FOR CO-OP MODE?
-
 <div align="center">
   
-```
- ████████████████████████████████████████████████████████████████████████████████████████
- █                                                                                      █
- █                            🎮 QUEST INVITATION 🎮                                  █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                                                                             │  █
- █    │    🌟 LOOKING FOR EPIC COLLABORATIONS?                                     │  █
- █    │                                                                             │  █
- █    │    Whether you need a web application, mobile app, or want to              │  █
- █    │    team up for an innovative project, I'm ready for the challenge!        │  █
- █    │                                                                             │  █
- █    │    Let's build something legendary together! 🚀                           │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- █                   📧 WARP PIPE: gassdj47@gmail.com                                 █
- █                                                                                      █
- ████████████████████████████████████████████████████████████████████████████████████████
-```
-
+  ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
+  
 </div>
 
----
-
 <div align="center">
-  
-```
- ████████████████████████████████████████████████████████████████████████████████████████
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                                                                             │  █
- █    │    🎵 "Code is like music. When you have to explain it, it's bad."         │  █
- █    │                                    - Cory House                            │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- ████████████████████████████████████████████████████████████████████████████████████████
-```
 
-<img src="https://komarev.com/ghpvc/?username=gassafrica&label=🎮%20ARCADE%20VISITORS&color=00ff41&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+### 💫 Always Learning, Always Building
 
-<div align="center">
-  
-```
- ████████████████████████████████████████████████████████████████████████████████████████
- █                                                                                      █
- █                       🌟 THANKS FOR VISITING MY ARCADE! 🌟                         █
- █                                                                                      █
- █    ┌─────────────────────────────────────────────────────────────────────────────┐  █
- █    │                                                                             │  █
- █    │                              GAME OVER                                     │  █
- █    │                                                                             │  █
- █    │                        Press ⭐ to Continue                                │  █
- █    │                                                                             │  █
- █    └─────────────────────────────────────────────────────────────────────────────┘  █
- █                                                                                      █
- ████████████████████████████████████████████████████████████████████████████████████████
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+exciting+opportunities;Let's+build+something+incredible+together;Innovation+through+collaboration" alt="Footer Animation" />
 
-</div>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=2000&color=FFD700&center=true&vCenter=true&width=400&lines=🎮+PLAYER+SAMUEL+🎮;🚀+READY+FOR+NEXT+LEVEL+🚀;💫+KEEP+CODING+EPIC+STUFF!+💫" alt="Game Over Animation" />
+<img src="https://komarev.com/ghpvc/?username=gassafrica&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=2A2A2A" alt="Profile Views" />
+
+<br><br>
+
+<sub>🇬🇭 Proudly coding from Ghana • Building the future, one commit at a time</sub>
 
 </div>
